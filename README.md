@@ -146,5 +146,5 @@ This project demonstrates how SQL can be used to transform relational e-commerce
 Industrial Engineer | Data Analyst
 
 - 📧 Email: fadlillah0210@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💼 LinkedIn: [*(Add your LinkedIn URL)*](http://www.linkedin.com/in/moch-fadlilah-rahmadi)
 - 💻 GitHub: https://github.com/fadli-rahmadi
